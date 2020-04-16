@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "643701607432",
+    "firebase_url": "https://chef-circle.firebaseio.com",
+    "project_id": "chef-circle",
+    "storage_bucket": "chef-circle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643701607432:android:48440ad40d52638836d5bd",
+        "android_client_info": {
+          "package_name": "com.chefapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643701607432-uada6526vml9uh5pdp78pppe1ndhpdhs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chefapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "643701607432-o185ai8v9k32k7ohsjdf3bfqikbge4j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAdj8tQ07Th8CbZTHzcMcL-xnqSFNiBKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643701607432-o185ai8v9k32k7ohsjdf3bfqikbge4j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
